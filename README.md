@@ -1,8 +1,8 @@
 ## Greetings!!!
 
-I'm a software engineer. 
-I build great features for TOTVS-Protheus.
-I develop awesome flutter apps.
+- I'm a software engineer. 
+- I build great features for TOTVS-Protheus.
+- I develop awesome flutter apps.
 
 ## 🔧 Dev skills
 - **Code languages**: ADVPL,SQL,Dart,C#,JS/Html5/CSS,Python
