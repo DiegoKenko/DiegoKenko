@@ -1,16 +1,18 @@
-## Hi there 👋
+## Greetings!!!
 
-<!--
-**DiegoKenko/DiegoKenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I 
 
-Here are some ideas to get you started:
+## 🔧 Dev skills
+- **Code languages**: ADVPL,TL++,Dart,C#,JS,Python,SQL
+- **Tools**: Protheus,MSSQL,MQTT,Firebase,AWS,GCP,VScode, 
+- **Dev Frameworks**: Flutter, .Net, Angular
+- **Security development and best security practices**
+- **SOLID framework**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 General IT skills
+- **Network architecture**
+- **Web API requests**
+- ****
+
+## 🔎 Follow me
+- LinkedIn: https://www.linkedin.com/in/diegoandrade7/
