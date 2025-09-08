@@ -23,5 +23,8 @@
 - LinkedIn: https://www.linkedin.com/in/diegoandrade7/
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokenko&layout=compact&hide=html" alt="diegokenko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegokenko&show_icons=true" alt="diegokenko" /></p>
+
 
 
