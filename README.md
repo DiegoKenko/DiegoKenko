@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokenko&layout=compact&hide=html" alt="diegokenko" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegokenko&show_icons=true" alt="diegokenko" /></p>
- <img src="https://github-readme-stats-fork-two.vercel.app/api/wakatime?username=diegokenko&layout=compact" alt="Wakatime stats">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegokenko&layout=compact" alt="Wakatime stats"></p>
 
 
 
